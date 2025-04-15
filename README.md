@@ -52,10 +52,6 @@ cd franka_ros2
       ```bash
       source install/setup.bash
       ```
-  8. **When you are done, you can exit the shell and delete the container**:
-      ```bash
-      docker compose down -t 0
-      ```
 #### NOTE : Make sure that move_to_start_example_controller is working , for general documentation of franka_ros2 [check this website](https://frankaemika.github.io/docs/franka_ros2.html)
 
 
