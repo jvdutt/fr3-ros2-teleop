@@ -16,7 +16,7 @@ The changes made to the [original code](https://github.com/frankaemika/franka_ro
 ### Download franka_ros2.zip and unzip.
 
 ```bash
-unzip ~/Downloads/franka_ros2.zip -d ~/franka_ros2
+unzip ~/Downloads/franka_ros2.zip -d ~/
 cd franka_ros2
 ```
 
