@@ -46,7 +46,7 @@ cd franka_ros2
       ```
   7. **Build the workspace:**
       ```bash
-      colcon build 
+      colcon build --symlink-install --cmake-args -DCMAKE_BUILD_TYPE=Release
       ```
   7. **Source the built workspace:**
       ```bash
